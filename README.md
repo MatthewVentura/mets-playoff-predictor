@@ -35,3 +35,6 @@ Use real sabermetrics and historical MLB data to build a machine learning model 
 ### 1️⃣ Train the Neural Network (only once, or after edits)
 ```bash
 python3 finalSet.py
+
+📽️ [Download the full project presentation (PPTX)](./Mets_Playoff_Predictor_Presentation.pptx)
+
